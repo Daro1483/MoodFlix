@@ -1,0 +1,102 @@
+﻿body {
+    background-color: #f6f6f6;
+}
+
+.navbar {
+    background-color: rgb(68,36,71);
+}
+
+.navbar-brand img {
+    max-height: 40px;
+}
+
+main form {
+    background-color: white;
+    margin-top: 8%;
+}
+
+.barraDeNavegacion {
+    background-color: rgb(68,36,71);
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+}
+
+    .nav-link::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 0; /* Comienza con un ancho de 0 */
+        height: 2px; /* Altura del "subrayado" */
+        background-color: #fff; /* Color del "subrayado" */
+        transition: width 0.3s ease; /* Transición suave en el ancho */
+    }
+
+    .nav-link:hover {
+        color: #fff;
+    }
+
+        .nav-link:hover::after {
+            color: #fff;
+            width: 100%;
+        }
+
+.emocion_seleccionada {
+    background-color: #379EA8;
+    color: #f6f6f6;
+    border-radius: 42px;
+}
+
+.card-img-top{
+    border-radius: 0;
+}
+
+
+.background-emociones {
+    background-color: rgb(68,36,71);
+    color: #fff;
+}
+
+.ddlHerramientas {
+    
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.error-message {
+    color: #D8000C;
+    background-color: #FFBABA;
+    border: 1px solid #D8000C;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.card-shadow {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+    .card-shadow:hover {
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+
+
+.NoMaxWidth {
+    max-width: 100% !important;
+}
+
+/*.imageButton {
+    transition: box-shadow 0.3s ease-in-out;*/ /* Transición suave de la sombra */
+    /*box-shadow: 0 0 0px rgba(0,0,0,0);*/ /* Sombra inicial invisible */
+/*}
+
+    .imageButton:hover {
+        box-shadow: 0 0 15px rgba(0,0,0,0.5);*/ /* Sombra visible al hacer hover */
+    /*}*/

@@ -1,0 +1,332 @@
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Moodflix.dll.config
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Moodflix.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Moodflix.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csc.exe
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csc.exe.config
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csc.rsp
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csi.exe
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csi.exe.config
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\csi.rsp
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.AppContext.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Console.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Net.Http.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\vbc.exe
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\vbc.exe.config
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\vbc.rsp
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Antlr3.Runtime.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\BLL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Newtonsoft.Json.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Services.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\System.Web.Optimization.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\WebGrease.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Interfaces.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\DAL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\BE.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\BLL.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Services.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\System.Web.Optimization.xml
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Newtonsoft.Json.xml
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Antlr3.Runtime.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\Interfaces.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\bin\DAL.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.Up2Date
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\obj\Debug\Moodflix.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Moodflix\obj\Debug\Moodflix.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Moodflix.dll.config
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Moodflix.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Moodflix.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Services.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\bin\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\obj\Debug\Moodflix.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\obj\Debug\Moodflix.dll
+C:\Users\Usuario\Desktop\Moodflix\Moodflix\obj\Debug\Moodflix.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Moodflix.dll.config
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Moodflix.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Moodflix.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Services.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\bin\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\obj\Debug\Moodflix.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\obj\Debug\Moodflix.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\obj\Debug\Moodflix.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\obj\Debug\Moodflix.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Moodflix\obj\Debug\Moodflix.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Moodflix.dll.config
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Moodflix.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Moodflix.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\BE.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\BLL.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Services.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\WebGrease.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Interfaces.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\DAL.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\BE.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\BLL.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Services.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\Interfaces.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\bin\DAL.pdb
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\obj\Debug\Moodflix.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\obj\Debug\Moodflix.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\obj\Debug\Moodflix.csproj.Up2Date
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\obj\Debug\Moodflix.dll
+C:\Users\Usuario\Documents\Facultad\MCGA\Moodflix - Vega Dario\Moodflix Final\Moodflix\obj\Debug\Moodflix.pdb

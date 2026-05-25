@@ -1,0 +1,45 @@
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\BLL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\BLL.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\DAL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\Services.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\Interfaces.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\BE.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\DAL.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\Services.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\bin\Debug\Interfaces.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\obj\Debug\BLL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix\BLL\obj\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BLL\obj\Debug\BLL.pdb

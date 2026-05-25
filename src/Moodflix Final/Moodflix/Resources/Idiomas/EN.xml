@@ -1,0 +1,158 @@
+﻿<Traducciones>
+	<Texto clave="Login_Email">Email</Texto>
+	<Texto clave="Login_Contraseña">Password</Texto>
+	<Texto clave="Login_BotonIngresar">Sign In</Texto>
+	<Texto clave="Login_LinkRegistro">Register</Texto>
+	<Texto clave="Login_ErrorBase_Cliente">You cannot access the system at this time. Please try again later.</Texto>
+	<Texto clave="Login_ErrorBase_Admin">System access denied. Please contact the webmaster.</Texto>
+	<Texto clave="Login_ErrorBase_Webmaster">Warning: Database integrity issues detected.</Texto>
+	<Texto clave="Integridad_DetalleError">Error details:</Texto>
+	
+	<Texto clave="Emociones_LinkInicioSesion">Log in</Texto>
+	<Texto clave="Emociones_LinkRegistro">Register</Texto>
+	<Texto clave="Emociones_LinkCierreSesion">Log out</Texto>
+	<Texto clave="Emociones_Titulo">Choose an emotion to start:</Texto>
+	<Texto clave="Emociones_Herramientas">Tools</Texto>
+	<Texto clave="Emociones_Bitacora">Logbook</Texto>
+	<Texto clave="Emociones_Backup">Security</Texto>
+	<Texto clave="Emociones_ABM">CRUD</Texto>
+	
+
+	<Texto clave="SiteMaster_LinkMisCompras">My Orders</Texto>
+	<Texto clave="SiteMaster_LinkEmociones">Emotions</Texto>
+	<Texto clave="SiteMaster_LinkLibros">Books</Texto>
+	<Texto clave="SiteMaster_LinkPeliculas">Movies</Texto>
+	<Texto clave="SiteMaster_LinkPerfiles">Profile Management</Texto>
+	<Texto clave="SiteMaster_LinkSeguridad">Security</Texto>
+	<Texto clave="SiteMaster_LinkUsuariosBloqueados">Blocked Users</Texto>
+
+
+
+	<Texto clave="Libros_Emocion">Emotion</Texto>
+	<Texto clave="Libros_Libro">Book</Texto>
+	<Texto clave="Libros_BotonAgregar">Add</Texto>
+	<Texto clave="Libros_Alert">The item was added to the cart</Texto>
+
+	<Texto clave="Peliculas_Emocion">Emotion</Texto>
+	<Texto clave="Peliculas_Pelicula">Movie</Texto>
+	<Texto clave="Peliculas_BotonAgregar">Add</Texto>
+	<Texto clave="Peliculas_Alert">The item was added to the cart</Texto>
+
+	<Texto clave="Backup_lblTitulo">Backup and Restore</Texto>
+	<Texto clave="Backup_lblGenerar">Generate backup</Texto>
+	<Texto clave="Backup_BtnGenerar">Create backup</Texto>
+	<Texto clave="Backup_BtnDescargar">Download backup</Texto>
+	<Texto clave="Backup_lblHacerRestauracion">Restore database</Texto>
+	<Texto clave="Backup_lblRutaRestauracion">Restore path:</Texto>
+	<Texto clave="Backup_btnExaminar">Browse...</Texto>
+	<Texto clave="Backup_btnComenzar">Start restore</Texto>
+
+	<Texto clave="Bitacora_lblTitulo">Logbook</Texto>
+	<Texto clave="Bitacora_lblFechaHoraInicio">Start date and time:</Texto>
+	<Texto clave="Bitacora_lblFechaHoraFin">End date and time:</Texto>
+	<Texto clave="Bitacora_lblUsuarioFiltro">User email:</Texto>
+	<Texto clave="Bitacora_lblModuloFiltro">Module:</Texto>
+	<Texto clave="Bitacora_btnFiltrar">Filter</Texto>
+	<Texto clave="Bitacora_btnLimpiar">Clear filters</Texto>
+	<Texto clave="Bitacora_grd_ID">ID</Texto>
+	<Texto clave="Bitacora_grd_Fecha">Date</Texto>
+	<Texto clave="Bitacora_grd_EmailUsuario">User Email</Texto>
+	<Texto clave="Bitacora_grd_Modulo">Module</Texto>
+	<Texto clave="Bitacora_grd_Operacion">Operation</Texto>
+
+	<Texto clave="Carrito_lblTitulo">My Order</Texto>
+	<Texto clave="Carrito_msgVacio">The cart is empty</Texto>
+
+	<!-- ABM Películas -->
+	<Texto clave="ABM_lblTituloPeliculas">Manage movies</Texto>
+	<Texto clave="ABM_lblNombrePeliculas">Name</Texto>
+	<Texto clave="ABM_lblDescripcionPeliculas">Description</Texto>
+	<Texto clave="ABM_lblFechaPeliculas">Date</Texto>
+	<Texto clave="ABM_lblPrecioPeliculas">Price</Texto>
+	<Texto clave="ABM_lblEmocionPeliculas">Emotion</Texto>
+	<Texto clave="ABM_lblGeneroPeliculas">Genre</Texto>
+	<Texto clave="ABM_lblDirectorPeliculas">Director</Texto>
+	<Texto clave="ABM_btnAgregarPelicula">Add</Texto>
+	<Texto clave="ABM_btnActualizarPelicula">Edit</Texto>
+	<Texto clave="ABM_btnEliminarPelicula">Remove</Texto>
+
+	<Texto clave="ABM_grd_PeliculaID">ID</Texto>
+	<Texto clave="ABM_grd_PeliculaNombre">Name</Texto>
+	<Texto clave="ABM_grd_PeliculaDescripcion">Description</Texto>
+	<Texto clave="ABM_grd_PeliculaFecha">Date</Texto>
+	<Texto clave="ABM_grd_PeliculaPrecio">Price</Texto>
+	<Texto clave="ABM_grd_PeliculaURI">URI</Texto>
+	<Texto clave="ABM_grd_PeliculaEmocion">Emotion</Texto>
+	<Texto clave="ABM_grd_PeliculaGenero">Genre</Texto>
+	<Texto clave="ABM_grd_PeliculaDirector">Director</Texto>
+
+	<!-- ABM Libros -->
+	<Texto clave="ABM_lblTituloLibros">Manage books</Texto>
+	<Texto clave="ABM_lblNombreLibros">Name</Texto>
+	<Texto clave="ABM_lblDescripcionLibros">Description</Texto>
+	<Texto clave="ABM_lblFechaLibros">Date</Texto>
+	<Texto clave="ABM_lblPrecioLibros">Price</Texto>
+	<Texto clave="ABM_lblEmocionLibros">Emotion</Texto>
+	<Texto clave="ABM_lblAutorLibros">Author</Texto>
+	<Texto clave="ABM_lblEditorialLibros">Publisher</Texto>
+
+	<Texto clave="ABM_btnAgregarLibro">Add</Texto>
+	<Texto clave="ABM_btnActualizarLibro">Edit</Texto>
+	<Texto clave="ABM_btnEliminarLibro">Remove</Texto>
+
+	<Texto clave="ABM_grd_LibroID">ID</Texto>
+	<Texto clave="ABM_grd_LibroNombre">Name</Texto>
+	<Texto clave="ABM_grd_LibroDescripcion">Description</Texto>
+	<Texto clave="ABM_grd_LibroFecha">Date</Texto>
+	<Texto clave="ABM_grd_LibroPrecio">Price</Texto>
+	<Texto clave="ABM_grd_LibroURI">URI</Texto>
+	<Texto clave="ABM_grd_LibroEmocion">Emotion</Texto>
+	<Texto clave="ABM_grd_LibroAutor">Author</Texto>
+	<Texto clave="ABM_grd_LibroEditorial">Publisher</Texto>
+	<Texto clave="ABM_grd_Seleccionar">Select</Texto>
+
+	<!-- Validaciones ABM -->
+	<Texto clave="ABM_ErrorNombreObligatorio">The name is required.</Texto>
+	<Texto clave="ABM_ErrorDescripcionObligatoria">The description is required.</Texto>
+	<Texto clave="ABM_ErrorFechaObligatoria">The date is required.</Texto>
+	<Texto clave="ABM_ErrorPrecioObligatorio">The price is required.</Texto>
+	<Texto clave="ABM_ErrorUriObligatoria">The URI is required.</Texto>
+	<Texto clave="ABM_ErrorEmocionObligatoria">The emotion is required.</Texto>
+	<Texto clave="ABM_ErrorGeneroObligatorio">The genre is required.</Texto>
+	<Texto clave="ABM_ErrorDirectorObligatorio">The director is required.</Texto>
+	<Texto clave="ABM_ErrorAutorObligatorio">The author is required.</Texto>
+	<Texto clave="ABM_ErrorEditorialObligatoria">The publisher is required.</Texto>
+
+	<!-- MÓDULO PERFILES -->
+	<Texto clave="Perfiles_lblTitulo">Profile management</Texto>
+	<Texto clave="Perfiles_lblRoles">Available roles</Texto>
+	<Texto clave="Perfiles_lblNuevaFamilia">New family name</Texto>
+	<Texto clave="Perfiles_btnCrearFamilia">Create family</Texto>
+	<Texto clave="Perfiles_btnEliminarFamilia">Delete family</Texto>
+	<Texto clave="Perfiles_lblFamilias">Families</Texto>
+	<Texto clave="Perfiles_lblRolesFamilia">Roles of selected family</Texto>
+	<Texto clave="Perfiles_btnAgregarRol">Add role</Texto>
+	<Texto clave="Perfiles_btnQuitarRol">Remove role</Texto>
+
+	<Texto clave="SinPermisos_Titulo">Access Denied</Texto>
+	<Texto clave="SinPermisos_Mensaje1">You do not have permission to access this section.</Texto>
+	<Texto clave="SinPermisos_Mensaje2">If you think this is a mistake, please contact the webmaster.</Texto>
+	<Texto clave="SinPermisos_BtnVolver">Return to Home</Texto>
+
+	
+	<Texto clave="UsuariosBloqueados_Titulo">Blocked user administration</Texto>
+	<Texto clave="UsuariosBloqueados_ColId">ID</Texto>
+	<Texto clave="UsuariosBloqueados_ColUsuario">User</Texto>
+	<Texto clave="UsuariosBloqueados_ColEmail">Email</Texto>
+	<Texto clave="UsuariosBloqueados_ColIntentos">Attempts</Texto>
+	<Texto clave="UsuariosBloqueados_ColBloqueado">Blocked</Texto>
+	<Texto clave="UsuariosBloqueados_ColAcciones">Actions</Texto>
+	<Texto clave="UsuariosBloqueados_BotonBloquear">Block</Texto>
+	<Texto clave="UsuariosBloqueados_BotonDesbloquear">Unblock</Texto>
+	<Texto clave="UsuariosBloqueados_AlertBloqueado">User {USER} has been blocked from accessing the system.</Texto>
+	<Texto clave="UsuariosBloqueados_AlertDesbloqueado">User {USER} has been unblocked and can now access the system.</Texto>
+
+
+
+
+</Traducciones>

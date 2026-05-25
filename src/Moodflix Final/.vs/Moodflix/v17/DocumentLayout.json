@@ -1,0 +1,828 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|c:\\users\\usuario\\documents\\facultad\\mcga\\moodflix - vega dario\\moodflix final\\moodflix\\abm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\abm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\backup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\backup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\backup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\backup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\resources\\idiomas\\es.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\resources\\idiomas\\es.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\bitacora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\bitacora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\abm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\abm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\iidiomaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\iidiomaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\gestoridioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\gestoridioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\resources\\idiomas\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\resources\\idiomas\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\perfiles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\perfiles.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\dvv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\dvv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\columnainvalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\columnainvalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\registroinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\registroinvalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\dvv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\dvv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\dvh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\dvh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAC15A-792D-41F0-8B7E-08A9956EB49F}|Interfaces\\Interfaces.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAC15A-792D-41F0-8B7E-08A9956EB49F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\permisobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|c:\\users\\usuario\\documents\\facultad\\mcga\\moodflix - vega dario\\moodflix final\\bll\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\backupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\backupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\cryptomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\cryptomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\dvh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\dvh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\bitacora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\bitacora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\tipooperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\tipooperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\tipomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\tipomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\perfiles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\perfiles.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\rolhijobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\rolhijobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\rolbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\rolbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\permisos\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\permisos\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\permisos\\familia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\permisos\\familia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\permisos\\icomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\permisos\\icomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\usuariosbloqueados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\usuariosbloqueados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\moodflix\\usuariosbloqueados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ED826292-9B6E-42F2-B26E-207642406FC7}|Moodflix\\Moodflix.csproj|solutionrelative:moodflix\\usuariosbloqueados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\usuarioestadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\usuarioestadobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\usuarioestadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\usuarioestadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\usuarioestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\usuarioestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2CE439-9505-4A4B-90A7-8328D02E2099}|BLL\\BLL.csproj|solutionrelative:bll\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\services\\isujetoidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833056B-E045-4FC4-85D4-3F297B732D1A}|Services\\Services.csproj|solutionrelative:services\\isujetoidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\be\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF5961-1D8D-4256-AFC6-7C7EFFD33C9B}|BE\\BE.csproj|solutionrelative:be\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38ED0B21-52E3-4BF1-883D-2D04D2DBDAE7}|DAL\\DAL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\dal\\mp_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ED0B21-52E3-4BF1-883D-2D04D2DBDAE7}|DAL\\DAL.csproj|solutionrelative:dal\\mp_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38ED0B21-52E3-4BF1-883D-2D04D2DBDAE7}|DAL\\DAL.csproj|C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\dal\\mp_rolhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ED0B21-52E3-4BF1-883D-2D04D2DBDAE7}|DAL\\DAL.csproj|solutionrelative:dal\\mp_rolhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 549,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backup.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Backup.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\Backup.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Backup.aspx",
+              "RelativeToolTip": "Moodflix\\Backup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-15T12:54:23.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Perfiles.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Perfiles.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\Perfiles.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Perfiles.aspx.cs",
+              "RelativeToolTip": "Moodflix\\Perfiles.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:12:03.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\GestorIdioma.cs",
+              "RelativeDocumentMoniker": "Services\\GestorIdioma.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\GestorIdioma.cs",
+              "RelativeToolTip": "Services\\GestorIdioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:14:53.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Backup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Backup.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\Backup.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Backup.aspx.cs",
+              "RelativeToolTip": "Moodflix\\Backup.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:59:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bitacora.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Bitacora.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\Bitacora.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Bitacora.aspx",
+              "RelativeToolTip": "Moodflix\\Bitacora.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-15T12:54:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABM.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\ABM.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\ABM.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\ABM.aspx",
+              "RelativeToolTip": "Moodflix\\ABM.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-15T11:02:54.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ES.xml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Resources\\Idiomas\\ES.xml",
+              "RelativeDocumentMoniker": "Moodflix\\Resources\\Idiomas\\ES.xml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Resources\\Idiomas\\ES.xml",
+              "RelativeToolTip": "Moodflix\\Resources\\Idiomas\\ES.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-15T12:52:40.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DVV.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\DVV.cs",
+              "RelativeDocumentMoniker": "Services\\DVV.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\DVV.cs",
+              "RelativeToolTip": "Services\\DVV.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:58:05.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIdiomaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\IIdiomaObserver.cs",
+              "RelativeDocumentMoniker": "Services\\IIdiomaObserver.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\IIdiomaObserver.cs",
+              "RelativeToolTip": "Services\\IIdiomaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:13:30.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ABM.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\ABM.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\ABM.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\ABM.aspx.cs",
+              "RelativeToolTip": "Moodflix\\ABM.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:47:24.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DVV.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\DVV.cs",
+              "RelativeDocumentMoniker": "BLL\\DVV.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\DVV.cs",
+              "RelativeToolTip": "BLL\\DVV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:12:39.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Login.aspx.cs",
+              "RelativeToolTip": "Moodflix\\Login.aspx.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:21:13.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ColumnaInvalida.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\ColumnaInvalida.cs",
+              "RelativeDocumentMoniker": "Services\\ColumnaInvalida.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\ColumnaInvalida.cs",
+              "RelativeToolTip": "Services\\ColumnaInvalida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:56:18.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EN.xml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Resources\\Idiomas\\EN.xml",
+              "RelativeDocumentMoniker": "Moodflix\\Resources\\Idiomas\\EN.xml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Resources\\Idiomas\\EN.xml",
+              "RelativeToolTip": "Moodflix\\Resources\\Idiomas\\EN.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-15T10:56:52.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Login.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\Login.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Login.aspx",
+              "RelativeToolTip": "Moodflix\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-12T13:21:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroInvalido.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\RegistroInvalido.cs",
+              "RelativeDocumentMoniker": "Services\\RegistroInvalido.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\RegistroInvalido.cs",
+              "RelativeToolTip": "Services\\RegistroInvalido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:56:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:25:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DVH.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\DVH.cs",
+              "RelativeDocumentMoniker": "Services\\DVH.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\DVH.cs",
+              "RelativeToolTip": "Services\\DVH.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:57:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackupService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\BackupService.cs",
+              "RelativeDocumentMoniker": "BLL\\BackupService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\BackupService.cs",
+              "RelativeToolTip": "BLL\\BackupService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:57:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CryptoManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\CryptoManager.cs",
+              "RelativeDocumentMoniker": "Services\\CryptoManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\CryptoManager.cs",
+              "RelativeToolTip": "Services\\CryptoManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:22:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Libro.cs",
+              "RelativeDocumentMoniker": "BLL\\Libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Libro.cs",
+              "RelativeToolTip": "BLL\\Libro.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:47:37.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PermisoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\PermisoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PermisoBLL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\PermisoBLL.cs",
+              "RelativeToolTip": "BLL\\PermisoBLL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:09:21.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DVH.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\DVH.cs",
+              "RelativeDocumentMoniker": "BLL\\DVH.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\DVH.cs",
+              "RelativeToolTip": "BLL\\DVH.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAAAKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T18:12:11.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Libro.cs",
+              "RelativeDocumentMoniker": "BE\\Libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Libro.cs",
+              "RelativeToolTip": "BE\\Libro.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:59:36.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BE\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Pelicula.cs",
+              "RelativeToolTip": "BE\\Pelicula.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:59:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Producto.cs",
+              "RelativeDocumentMoniker": "BE\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Producto.cs",
+              "RelativeToolTip": "BE\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:48:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bitacora.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Bitacora.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\Bitacora.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Bitacora.aspx.cs",
+              "RelativeToolTip": "Moodflix\\Bitacora.aspx.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:29:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Bitacora.cs",
+              "RelativeDocumentMoniker": "BLL\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Bitacora.cs",
+              "RelativeToolTip": "BLL\\Bitacora.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:27:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Bitacora.cs",
+              "RelativeDocumentMoniker": "Services\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Bitacora.cs",
+              "RelativeToolTip": "Services\\Bitacora.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:26:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TipoOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\TipoOperacion.cs",
+              "RelativeDocumentMoniker": "Services\\TipoOperacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\TipoOperacion.cs",
+              "RelativeToolTip": "Services\\TipoOperacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:25:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TipoModulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\TipoModulo.cs",
+              "RelativeDocumentMoniker": "Services\\TipoModulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\TipoModulo.cs",
+              "RelativeToolTip": "Services\\TipoModulo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:24:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Perfiles.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Perfiles.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\Perfiles.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\Perfiles.aspx",
+              "RelativeToolTip": "Moodflix\\Perfiles.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-11T10:11:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RolHijoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\RolHijoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\RolHijoBLL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\RolHijoBLL.cs",
+              "RelativeToolTip": "BLL\\RolHijoBLL.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:09:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RolBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\RolBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\RolBLL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\RolBLL.cs",
+              "RelativeToolTip": "BLL\\RolBLL.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:08:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Patente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\Patente.cs",
+              "RelativeDocumentMoniker": "Services\\Permisos\\Patente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\Patente.cs",
+              "RelativeToolTip": "Services\\Permisos\\Patente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:08:00.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Familia.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\Familia.cs",
+              "RelativeDocumentMoniker": "Services\\Permisos\\Familia.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\Familia.cs",
+              "RelativeToolTip": "Services\\Permisos\\Familia.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:07:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IComponente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\IComponente.cs",
+              "RelativeDocumentMoniker": "Services\\Permisos\\IComponente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\Permisos\\IComponente.cs",
+              "RelativeToolTip": "Services\\Permisos\\IComponente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:07:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsuariosBloqueados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\UsuariosBloqueados.aspx.cs",
+              "RelativeDocumentMoniker": "Moodflix\\UsuariosBloqueados.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\UsuariosBloqueados.aspx.cs",
+              "RelativeToolTip": "Moodflix\\UsuariosBloqueados.aspx.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:31:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsuariosBloqueados.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\UsuariosBloqueados.aspx",
+              "RelativeDocumentMoniker": "Moodflix\\UsuariosBloqueados.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Moodflix\\UsuariosBloqueados.aspx",
+              "RelativeToolTip": "Moodflix\\UsuariosBloqueados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-11T09:31:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsuarioEstadoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\UsuarioEstadoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UsuarioEstadoBLL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\UsuarioEstadoBLL.cs",
+              "RelativeToolTip": "BLL\\UsuarioEstadoBLL.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:30:13.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioEstadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\UsuarioEstadoDTO.cs",
+              "RelativeDocumentMoniker": "BE\\UsuarioEstadoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\UsuarioEstadoDTO.cs",
+              "RelativeToolTip": "BE\\UsuarioEstadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:29:29.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Usuario.cs",
+              "RelativeToolTip": "BE\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:28:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Usuario.cs",
+              "RelativeDocumentMoniker": "BLL\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Usuario.cs",
+              "RelativeToolTip": "BLL\\Usuario.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:26:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISujetoIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\ISujetoIdioma.cs",
+              "RelativeDocumentMoniker": "Services\\ISujetoIdioma.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\Services\\ISujetoIdioma.cs",
+              "RelativeToolTip": "Services\\ISujetoIdioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:14:28.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UsuarioEstado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\UsuarioEstado.cs",
+              "RelativeDocumentMoniker": "BE\\UsuarioEstado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\UsuarioEstado.cs",
+              "RelativeToolTip": "BE\\UsuarioEstado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:40:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Patente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Patente.cs",
+              "RelativeDocumentMoniker": "BE\\Patente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BE\\Patente.cs",
+              "RelativeToolTip": "BE\\Patente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:53:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MP_RolHijo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\DAL\\MP_RolHijo.cs",
+              "RelativeDocumentMoniker": "DAL\\MP_RolHijo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\DAL\\MP_RolHijo.cs",
+              "RelativeToolTip": "DAL\\MP_RolHijo.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwJoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:40:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MP_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\DAL\\MP_Rol.cs",
+              "RelativeDocumentMoniker": "DAL\\MP_Rol.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\DAL\\MP_Rol.cs",
+              "RelativeToolTip": "DAL\\MP_Rol.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:28:50.035Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Pelicula.cs",
+              "RelativeDocumentMoniker": "BLL\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Facultad\\MCGA\\Moodflix - Vega Dario\\Moodflix Final\\BLL\\Pelicula.cs",
+              "RelativeToolTip": "BLL\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:47:14.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\bin\Debug\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\bin\Debug\BE.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\bin\Debug\Interfaces.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\bin\Debug\Interfaces.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\obj\Debug\BE.csproj.Up2Date
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\obj\Debug\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\BE\obj\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\BE\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\BE\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\BE\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix\BE\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix\BE\obj\Debug\BE.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix\BE\obj\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\BE\obj\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\obj\Debug\BE.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\obj\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\BE\obj\Debug\BE.pdb

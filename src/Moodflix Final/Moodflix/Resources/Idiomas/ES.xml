@@ -1,0 +1,155 @@
+﻿<Traducciones>
+	<Texto clave="Login_Email">Correo electrónico</Texto>
+	<Texto clave="Login_Contraseña">Contraseña</Texto>
+	<Texto clave="Login_BotonIngresar">Ingresar</Texto>
+	<Texto clave="Login_LinkRegistro">Registrarse</Texto>
+	<Texto clave="Login_ErrorBase_Cliente">No puede acceder al sistema en este momento. Inténtelo más tarde.</Texto>
+	<Texto clave="Login_ErrorBase_Admin">No se puede acceder al sistema. Contacte al webmaster.</Texto>
+	<Texto clave="Login_ErrorBase_Webmaster">Advertencia: La base de datos presenta inconsistencias.</Texto>
+	<Texto clave="Integridad_DetalleError">Detalle del error:</Texto>
+
+	<Texto clave="Emociones_LinkInicioSesion">Inicio de sesión</Texto>
+	<Texto clave="Emociones_LinkRegistro">Registrarse</Texto>
+	<Texto clave="Emociones_LinkCierreSesion">Cierre de sesión</Texto>
+	<Texto clave="Emociones_Titulo">Elegí una emoción para empezar:</Texto>
+	<Texto clave="Emociones_Herramientas">Herramientas</Texto>
+	<Texto clave="Emociones_Bitacora">Bitácora</Texto>
+	<Texto clave="Emociones_Backup">Seguridad</Texto>
+	
+
+	<Texto clave="Emociones_ABM">ABM</Texto>
+
+	<Texto clave="SiteMaster_LinkMisCompras">Mis Compras</Texto>
+	<Texto clave="SiteMaster_LinkEmociones">Emociones</Texto>
+	<Texto clave="SiteMaster_LinkLibros">Libros</Texto>
+	<Texto clave="SiteMaster_LinkPeliculas">Peliculas</Texto>
+	<Texto clave="SiteMaster_LinkPerfiles">Gestión de Perfiles</Texto>
+	<Texto clave="SiteMaster_LinkSeguridad">Seguridad</Texto>
+	<Texto clave="SiteMaster_LinkUsuariosBloqueados">Usuarios bloqueados</Texto>
+
+	<Texto clave="Libros_Emocion">Emoción</Texto>
+	<Texto clave="Libros_Libro">Libro</Texto>
+	<Texto clave="Libros_BotonAgregar">Agregar</Texto>
+	<Texto clave="Libros_Alert">El ítem se agregó al carrito</Texto>
+
+	<Texto clave="Peliculas_Emocion">Emoción</Texto>
+	<Texto clave="Peliculas_Pelicula">Pelicula</Texto>
+	<Texto clave="Peliculas_BotonAgregar">Agregar</Texto>
+	<Texto clave="Peliculas_Alert">El ítem se agregó al carrito</Texto>
+
+	<Texto clave="Backup_lblTitulo">Copia de seguridad y Restauración de Base de Datos</Texto>
+	<Texto clave="Backup_lblGenerar">Generar copia de seguridad</Texto>
+	<Texto clave="Backup_BtnGenerar">Generar copia</Texto>
+	<Texto clave="Backup_BtnDescargar">Descargar copia</Texto>
+	<Texto clave="Backup_lblHacerRestauracion">Hacer restauración de Base de Datos</Texto>
+	<Texto clave="Backup_lblRutaRestauracion">Ruta restauración:</Texto>
+	<Texto clave="Backup_btnExaminar">Examinar...</Texto>
+	<Texto clave="Backup_btnComenzar">Comenzar restauración</Texto>
+
+	<Texto clave="Bitacora_lblTitulo">Bitácora</Texto>
+	<Texto clave="Bitacora_lblFechaHoraInicio">Fecha y hora de inicio:</Texto>
+	<Texto clave="Bitacora_lblFechaHoraFin">Fecha y hora de fin:</Texto>
+	<Texto clave="Bitacora_lblUsuarioFiltro">Email usuario:</Texto>
+	<Texto clave="Bitacora_lblModuloFiltro">Módulo:</Texto>
+	<Texto clave="Bitacora_btnLimpiar">Limpiar filtros</Texto>
+	<Texto clave="Bitacora_btnFiltrar">Filtrar</Texto>
+	<Texto clave="Bitacora_grd_ID">ID</Texto>
+	<Texto clave="Bitacora_grd_Fecha">Fecha</Texto>
+	<Texto clave="Bitacora_grd_EmailUsuario">Email Usuario</Texto>
+	<Texto clave="Bitacora_grd_Modulo">Módulo</Texto>
+	<Texto clave="Bitacora_grd_Operacion">Operación</Texto>
+
+	<Texto clave="Carrito_lblTitulo">Mis compras</Texto>
+	<Texto clave="Carrito_msgVacio">El carrito está vacío</Texto>
+
+	<!-- ABM Películas -->
+	<Texto clave="ABM_lblTituloPeliculas">Administrar películas</Texto>
+	<Texto clave="ABM_lblNombrePeliculas">Nombre</Texto>
+	<Texto clave="ABM_lblDescripcionPeliculas">Descripción</Texto>
+	<Texto clave="ABM_lblFechaPeliculas">Fecha</Texto>
+	<Texto clave="ABM_lblPrecioPeliculas">Precio</Texto>
+	<Texto clave="ABM_lblEmocionPeliculas">Emoción</Texto>
+	<Texto clave="ABM_lblGeneroPeliculas">Género</Texto>
+	<Texto clave="ABM_lblDirectorPeliculas">Director</Texto>
+	<Texto clave="ABM_btnAgregarPelicula">Agregar</Texto>
+	<Texto clave="ABM_btnActualizarPelicula">Actualizar</Texto>
+	<Texto clave="ABM_btnEliminarPelicula">Eliminar</Texto>
+
+	<Texto clave="ABM_grd_PeliculaID">ID</Texto>
+	<Texto clave="ABM_grd_PeliculaNombre">Nombre</Texto>
+	<Texto clave="ABM_grd_PeliculaDescripcion">Descripción</Texto>
+	<Texto clave="ABM_grd_PeliculaFecha">Fecha</Texto>
+	<Texto clave="ABM_grd_PeliculaPrecio">Precio</Texto>
+	<Texto clave="ABM_grd_PeliculaURI">URI</Texto>
+	<Texto clave="ABM_grd_PeliculaEmocion">Emoción</Texto>
+	<Texto clave="ABM_grd_PeliculaGenero">Género</Texto>
+	<Texto clave="ABM_grd_PeliculaDirector">Director</Texto>
+
+	<!-- ABM Libros -->
+	<Texto clave="ABM_lblTituloLibros">Administrar libros</Texto>
+	<Texto clave="ABM_lblNombreLibros">Nombre</Texto>
+	<Texto clave="ABM_lblDescripcionLibros">Descripción</Texto>
+	<Texto clave="ABM_lblFechaLibros">Fecha</Texto>
+	<Texto clave="ABM_lblPrecioLibros">Precio</Texto>
+	<Texto clave="ABM_lblEmocionLibros">Emoción</Texto>
+	<Texto clave="ABM_lblAutorLibros">Autor</Texto>
+	<Texto clave="ABM_lblEditorialLibros">Editorial</Texto>
+
+	<Texto clave="ABM_btnAgregarLibro">Agregar</Texto>
+	<Texto clave="ABM_btnActualizarLibro">Actualizar</Texto>
+	<Texto clave="ABM_btnEliminarLibro">Eliminar</Texto>
+
+	<Texto clave="ABM_grd_LibroID">ID</Texto>
+	<Texto clave="ABM_grd_LibroNombre">Nombre</Texto>
+	<Texto clave="ABM_grd_LibroDescripcion">Descripción</Texto>
+	<Texto clave="ABM_grd_LibroFecha">Fecha</Texto>
+	<Texto clave="ABM_grd_LibroPrecio">Precio</Texto>
+	<Texto clave="ABM_grd_LibroURI">URI</Texto>
+	<Texto clave="ABM_grd_LibroEmocion">Emoción</Texto>
+	<Texto clave="ABM_grd_LibroAutor">Autor</Texto>
+	<Texto clave="ABM_grd_LibroEditorial">Editorial</Texto>
+	<Texto clave="ABM_grd_Seleccionar">Seleccionar</Texto>
+
+	<!-- Validaciones ABM -->
+	<Texto clave="ABM_ErrorNombreObligatorio">El nombre es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorDescripcionObligatoria">La descripción es obligatoria.</Texto>
+	<Texto clave="ABM_ErrorFechaObligatoria">La fecha es obligatoria.</Texto>
+	<Texto clave="ABM_ErrorPrecioObligatorio">El precio es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorUriObligatoria">El URI es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorEmocionObligatoria">La emoción es obligatoria.</Texto>
+	<Texto clave="ABM_ErrorGeneroObligatorio">El género es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorDirectorObligatorio">El director es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorAutorObligatorio">El autor es obligatorio.</Texto>
+	<Texto clave="ABM_ErrorEditorialObligatoria">La editorial es obligatoria.</Texto>
+
+	<!-- MÓDULO PERFILES -->
+	<Texto clave="Perfiles_lblTitulo">Gestión de Perfiles</Texto>
+	<Texto clave="Perfiles_lblRoles">Roles disponibles</Texto>
+	<Texto clave="Perfiles_lblNuevaFamilia">Nombre nueva familia</Texto>
+	<Texto clave="Perfiles_btnCrearFamilia">Crear familia</Texto>
+	<Texto clave="Perfiles_btnEliminarFamilia">Eliminar familia</Texto>
+	<Texto clave="Perfiles_lblFamilias">Familias</Texto>
+	<Texto clave="Perfiles_lblRolesFamilia">Roles de la familia seleccionada</Texto>
+	<Texto clave="Perfiles_btnAgregarRol">Agregar rol</Texto>
+	<Texto clave="Perfiles_btnQuitarRol">Quitar rol</Texto>
+
+	<Texto clave="SinPermisos_Titulo">Acceso Denegado</Texto>
+	<Texto clave="SinPermisos_Mensaje1">No tiene permisos para acceder a esta sección del sistema.</Texto>
+	<Texto clave="SinPermisos_Mensaje2">Si considera que se trata de un error, por favor contacte al webmaster.</Texto>
+	<Texto clave="SinPermisos_BtnVolver">Volver al inicio</Texto>
+
+
+	<Texto clave="UsuariosBloqueados_Titulo">Administración de usuarios bloqueados</Texto>
+	<Texto clave="UsuariosBloqueados_ColId">ID</Texto>
+	<Texto clave="UsuariosBloqueados_ColUsuario">Usuario</Texto>
+	<Texto clave="UsuariosBloqueados_ColEmail">Email</Texto>
+	<Texto clave="UsuariosBloqueados_ColIntentos">Intentos</Texto>
+	<Texto clave="UsuariosBloqueados_ColBloqueado">Bloqueado</Texto>
+	<Texto clave="UsuariosBloqueados_ColAcciones">Acciones</Texto>
+	<Texto clave="UsuariosBloqueados_BotonBloquear">Bloquear</Texto>
+	<Texto clave="UsuariosBloqueados_BotonDesbloquear">Desbloquear</Texto>
+	<Texto clave="UsuariosBloqueados_AlertBloqueado">El usuario {USER} fue bloqueado para ingresar al sistema.</Texto>
+	<Texto clave="UsuariosBloqueados_AlertDesbloqueado">El usuario {USER} fue desbloqueado y ahora puede ingresar al sistema.</Texto>
+
+
+</Traducciones>

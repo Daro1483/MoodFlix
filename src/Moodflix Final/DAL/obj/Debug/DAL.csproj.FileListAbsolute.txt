@@ -1,0 +1,39 @@
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\DAL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\DAL.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\Services.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\Interfaces.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\BE.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\Services.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\obj\Debug\DAL.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\DAL\obj\Debug\DAL.pdb

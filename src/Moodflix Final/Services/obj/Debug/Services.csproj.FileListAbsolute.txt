@@ -1,0 +1,33 @@
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\Services.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\Services.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\BE.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\Interfaces.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\BE.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\bin\Debug\Interfaces.pdb
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\obj\Debug\Services.dll
+C:\Users\Dan\Documents\UAI\5- 1er Cuatrimestre 2024\Desarrollo y arquitecturas web\TP\Moodflix\Moodflix\Services\obj\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix\Services\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix\Services\obj\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix\Services\obj\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\Services.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\Interfaces.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\obj\Debug\Services.dll
+C:\Users\Usuario\Desktop\Moodflix 23-11-2025\Services\obj\Debug\Services.pdb
